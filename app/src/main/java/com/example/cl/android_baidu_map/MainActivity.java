@@ -36,7 +36,7 @@ MapView mMapView ;
 
         //定义Maker坐标点
         LatLng Loint = new LatLng(39.963175,116.400244);
-        BitmapDescriptor bitmap = BitmapDescriptorFactory.fromResource(R.drawable.icon_marka);
+//        BitmapDescriptor bitmap = BitmapDescriptorFactory.fromResource(R.drawable.icon_marka);
 
     }
     @Override
