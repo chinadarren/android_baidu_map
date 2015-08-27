@@ -10,7 +10,7 @@ import com.baidu.mapapi.SDKInitializer;
 import com.baidu.mapapi.map.MapView;
 
 public class MainActivity extends Activity {
-MapView mMapView = null;
+MapView mMapView ;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
